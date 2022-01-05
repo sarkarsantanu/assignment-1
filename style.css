@@ -1,3 +1,23 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.mission{
+    color:orange;
+}
+section{
+    display:flex;
+}
+.half{
+    width:50%;
+}
+.half img{
+    width:30%;
+}
+.link1{
+    text-decoration:none;
+    background-color: rgb(204, 70, 70);
+    padding:10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight:700;
+}
