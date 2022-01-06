@@ -17,6 +17,7 @@ section{
     width:50%;
     height:50%;
 }
+
 .link1{
     text-decoration:none;
     background-color: rgb(204, 70, 70);
@@ -28,7 +29,7 @@ section{
 
 .mission2{
     display:flex;
-    margin-bottom:150px;
+    margin-bottom:100px;
 }
 img{
     height: 100px;
@@ -44,10 +45,13 @@ img{
     
 }
 .newhalf{
-    width:50%;
+    width:80%;
 }
 .item img{
     width:40%;
+}
+.border-line{
+    border-left:rgb(204, 70, 70) 5px solid;
 }
 #part1{
     background-color: rgb(183, 207, 218);
@@ -56,5 +60,18 @@ img{
     background-color: rgb(231, 194, 200);
 }
 #part3{
-    background-color: rgb(221, 221, 193);
+    background-color:rgb(233, 233, 199)
+}
+.my-footer{
+    background: black;
+}
+h2{
+
+    text-align:center;
+}
+h5{
+    color:white;
+    text-align:center;
+}
+
 }
