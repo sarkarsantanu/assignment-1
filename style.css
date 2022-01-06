@@ -1,7 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.mission{
+h1{
+    font-size:40px;
+}
+.mission1{
     color:orange;
 }
 section{
@@ -11,7 +14,8 @@ section{
     width:50%;
 }
 .half img{
-    width:30%;
+    width:50%;
+    height:50%;
 }
 .link1{
     text-decoration:none;
@@ -20,4 +24,37 @@ section{
     border-radius: 5px;
     color:white;
     font-weight:700;
+}
+
+.mission2{
+    display:flex;
+    margin-bottom:150px;
+}
+img{
+    height: 100px;
+    width=120px;
+}
+.item{
+    margin-right:5%;
+    margin-left:5%;
+    width:60%;
+    padding-left:20px;
+    padding-right:10px;
+    border-radius:10px;
+    
+}
+.newhalf{
+    width:50%;
+}
+.item img{
+    width:40%;
+}
+#part1{
+    background-color: rgb(183, 207, 218);
+}
+#part2{
+    background-color: rgb(231, 194, 200);
+}
+#part3{
+    background-color: rgb(221, 221, 193);
 }
